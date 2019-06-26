@@ -1,0 +1,20 @@
+```yaml
+name: Cop's fr
+key: Cop's
+color: purple
+emblem: flag_k_01.png
+sort: trophy
+info:
+  logo: https://image.noelshack.com/fichiers/2019/26/3/1561583972-fb-img-1561583873006.jpg
+  description : > 
+  Clans de la communauté "Cop's fr", nous sommes une vaillante équipe de guerrier axée  sur les GDC. Avec nous, vous apprendrez à progresser dans une bonne ambiance, basée sur de vraies valeurs communautaires : le respect, l'entraide, l'humour. Donc venez nombreux évoluer dans nos clans pour donner le meilleur de vous même. 
+  social:
+    - facebook: https://www.facebook.com/groups/644279682586260/
+    - twitter: https://twitter.com/@fr_cops
+    - email : mail : mailto: cops.fr.cr@gmail.com
+clans:
+  - name: Cop's fr
+    tag: PQJV09
+  - name: Cop's fr II
+    tag: PPYU8Q2V
+```
